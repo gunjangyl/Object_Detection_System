@@ -5,7 +5,7 @@ This project implements an **Object Detection System** using deep learning model
 
 ## 🔥 Features
 - ✅ **Real-time object detection** from images, videos, and webcam streams
-- ✅ **Supports multiple models** (YOLOv8, Faster R-CNN, SSD, etc.)
+- ✅ **Supports multiple models** (YOLOv8, Faster R-CNN, SSD)
 - ✅ **Custom dataset support** for training new models
 - ✅ **Performance evaluation** with mAP, precision, recall
 - ✅ **Easy-to-use API** for inference & training
@@ -64,7 +64,7 @@ python detect.py --video 0 --model yolov8.pt
 
 ## 🏋️ Training a Custom Model
 
-Dataset should be structured in **COCO or Pascal VOC format**.
+Dataset is structured in **COCO**.
 
 ---
 
