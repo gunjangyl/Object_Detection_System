@@ -35,8 +35,8 @@ This project implements an **Object Detection System** using deep learning model
 ## 🛠 Installation
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/yourusername/object-detection-system.git  
-cd object-detection-system  
+git clone https://github.com/ygunjangyl/Object_Detection_System.git  
+cd Object_Detection_System  
 ```
 
 2️⃣ Install dependencies:
@@ -72,10 +72,6 @@ python detect.py --video 0 --model yolov8.pt
 ---
 
 ## 🏋️ Training a Custom Model
-If you want to train your own model on a custom dataset:
-```bash
-python train.py --dataset path/to/dataset --epochs 50 --model yolov8.pt
-```
 
 Dataset should be structured in **COCO or Pascal VOC format**.
 
