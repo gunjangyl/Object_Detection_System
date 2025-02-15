@@ -86,8 +86,7 @@ Dataset should be structured in **COCO or Pascal VOC format**.
 - Dataset: **COCO 2017**
 - mAP@50: **78.6%**
 
-### 📸 Sample Detections
-### 📸 Sample Detections
+
 ### 📸 Sample Detections
 **Image 1:**  
 ![Detection 1](results/Screenshot(19).jpg)  
