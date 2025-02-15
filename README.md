@@ -89,19 +89,19 @@ Dataset should be structured in **COCO or Pascal VOC format**.
 
 ### 📸 Sample Detections
 **Image 1:**  
-![Detection 1](results/Screenshot(19).png)  
+![Detection 1](results/Screenshot (19).png)  
 
 **Image 2:**  
-![Detection 2](results/Screenshot(36).png)  
+![Detection 2](results/Screenshot (36).png)  
 
 **Image 3:**  
-![Detection 3](results/Screenshot(74).png)  
+![Detection 3](results/Screenshot (74).png)  
 
 **Image 4:**  
-![Detection 2](results/Screenshot(84).png)  
+![Detection 2](results/Screenshot (84).png)  
 
 **Image 5:**  
-![Detection 3](results/Screenshot(103).png)  
+![Detection 3](results/Screenshot (103).png)  
 
 
 
