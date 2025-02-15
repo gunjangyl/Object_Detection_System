@@ -1,7 +1,5 @@
 # Object_Detection_System
 
-# Object Detection System
-
 ## 🚀 Project Overview
 This project implements an **Object Detection System** using deep learning models such as **YOLOv8, Faster R-CNN, SSD**, and others. The system is capable of detecting multiple objects in images and videos in real time, providing accurate bounding boxes around detected objects.
 
