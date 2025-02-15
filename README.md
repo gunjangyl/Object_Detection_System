@@ -42,14 +42,7 @@ cd Object_Detection_System
 pip install -r requirements.txt  
 ```
 
-3️⃣ Download pre-trained models (if needed):
-```bash
-mkdir models && cd models
-# Example for YOLOv8
-wget https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt
-```
 
----
 
 ## 🎯 Usage
 ### **Run Object Detection on an Image**
