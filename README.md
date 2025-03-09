@@ -75,20 +75,19 @@ Dataset is structured in **COCO**.
 
 
 ### 📸 Sample Detections
+<br><br>
 **Image 1:**  
-![Detection 1](results/Screenshot (19).png)  
-
+![Image](https://github.com/user-attachments/assets/c094f968-df5b-497a-9174-0f6bbd06a977)
+<br>
 **Image 2:**  
-![Detection 2](results/Screenshot (36).png)  
-
+![Image](https://github.com/user-attachments/assets/00e5a44a-3886-4052-a3dc-b4f687f209c7)
+<br>
 **Image 3:**  
-![Detection 3](results/Screenshot (74).png)  
-
+![Image](https://github.com/user-attachments/assets/10446431-acd6-450d-a3a5-3d980619c5ba)
+<br>
 **Image 4:**  
-![Detection 2](results/Screenshot (84).png)  
+![Image](https://github.com/user-attachments/assets/ac73a6c9-9fe1-4046-b3c7-1e38b1697102)
 
-**Image 5:**  
-![Detection 3](results/Screenshot (103).png)  
 
 
 
